@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container version="2">
-  <TemplateURL>https://github.com/TieDyeGeek/unraid-templates/blob/master/PostgreSQL9.xml</TemplateURL>
+  <TemplateURL>https://github.com/TieDyeGeek/unraid-templates/blob/master/PostgreSQL9-6.xml</TemplateURL>
   <Date>2019-08-11</Date>
   <Beta>False</Beta>
   <Category>Network:Management Productivity: Tools:</Category>
