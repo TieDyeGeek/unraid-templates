@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container version="2">
-  <TemplateURL>https://github.com/juusujanar/unraid-templates/blob/master/PostgreSQL.xml</TemplateURL>
+  <TemplateURL>https://github.com/TieDyeGeek/unraid-templates/blob/master/PostgreSQL10.xml</TemplateURL>
   <Date>2018-05-06</Date>
   <Beta>False</Beta>
   <Category>Network:Management Productivity: Tools:</Category>
